@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Guilherme Souza 
+🎓 Estudante de **Sistemas de Informação** | 💻 Desenvolvimento Back-End com **C# e .NET**  
 
-<!--
-**GuiHenrik97/guihenrik97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim  
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou estudando **C#, .NET, SQL e arquitetura de sistemas**, além de me aprofundar no mundo dos jogos digitais.  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou aprendendo  
+- 🔹 **Linguagens:** C#, SQL  
+- 🔹 **Frameworks:** .NET 
+- 🔹 **Banco de Dados:** SQL Server  
+- 🔹 **Ferramentas:** Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos  
+🔹 Em breve, estarei adicionando projetos aqui!  
+
+📫 **Me encontre em:**  
+[![www.linkedin.com/in/guilhermesouza97](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-perfil/) 
